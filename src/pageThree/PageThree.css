@@ -1,0 +1,67 @@
+.fullpage.skills {
+    width: 100vw;
+    height: 100vh;
+    border: 1px solid transparent;
+    color: #fff;
+    background-color: #DCC7AA;
+  }
+  
+  img.img-kind-1 {
+    width: 120px;
+    height: 126px;
+  }
+  
+  img.img-kind-2 {
+    width: 190px;
+    height: 62px;
+  }
+  
+  img.img-kind-3 {
+    width: 132px;
+    height: 132px;
+  }
+  
+  img.img-kind-4 {
+    width: 194px;
+    height: 140px;
+  }
+  
+  .fullpage.skills h1 {
+    font-size: 44px;
+    margin: 33px 0 73px 40px;
+    color: #333;
+  }
+  
+  .programming-lngugs {
+    padding: 0 230px 0 230px;
+    display: flex;
+    flex-flow: row wrap;
+    align-content: center;
+    justify-content: center;
+  }
+  
+  .programming-lngugs div {
+    width: 200px;
+    height: 273px;
+    margin: 0 20px 20px 0;
+    text-align: center;
+    justify-content: space-around;
+    flex-flow: column wrap;
+    display: flex;
+    align-content: center;
+    background-color: #f8f8f8;
+  }
+  
+  .programming-lngugs div:hover {
+    box-shadow: 0px 1px 7px 1px rgba(0, 0, 0, 0.24);
+  }
+  
+  .programming-lngugs div p {
+    color: #222;
+    font-size: 22px;
+    font-weight: 600;
+  }
+  
+  .programming-lngugs div:nth-of-type(4) p {
+    margin-bottom: 0;
+  }

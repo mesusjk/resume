@@ -1,0 +1,87 @@
+.fullscreen {
+    width: 100%;
+    height: 100%;
+}
+  
+  .around-text {
+    margin: auto;
+    width: 80%;
+    height: 82.7%;
+  
+  }
+
+.fullpage.about {
+    color: #222;
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    border: 1px solid transparent;
+    color: #fff;
+  }
+  
+  .fullpage.about h1 {
+    margin: 33px 0 73px 40px;
+    font-size: 44px;
+  }
+  
+  .fullpage.about h2 {
+    font-size: 29px;
+    margin-bottom: 44px;
+  }
+  
+  .fullpage.about p {
+    font-size: 22px;
+    line-height: 38px;
+  }
+  
+  .big-circle,
+  .medium-circle1,
+  .medium-circle2,
+  .small-circle1,
+  .small-circle2 {
+    /* z-index: -1; */
+    border-radius: 50%;
+    background-color: #1f7eb587;
+    position: absolute;
+  }
+  
+  .big-circle {
+    width: 400px;
+    right: 50px;
+    height: 400px;
+    bottom: 50px;
+  }
+  
+  .medium-circle1,
+  .medium-circle2 {
+    width: 214px;
+    height: 214px;
+  }
+  
+  .medium-circle1 {
+    top: 50px;
+    left: 250px;
+  }
+  
+  .medium-circle2 {
+    bottom: 75px;
+    right: 75px;
+  }
+  
+  .small-circle1,
+  .small-circle2 {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .small-circle1 {
+    top: 291px;
+    left: 113px;
+  }
+  
+  .small-circle2 {
+    top: 100px;
+    left: 62%;
+    transform: translateX(-50%)
+  }
+  

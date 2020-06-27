@@ -1,0 +1,40 @@
+{
+    "title": "Hi, I'm Amirreza!",
+    "subtitle": "Full Stack Dev | Open-Source Enthusiast",
+    "links": {
+        "github": "https://github.com/mesusjk",
+        "instagram": "https://www.instagram.com/mesusjk/?hl=en",
+        "facebook": "https://www.facebook.com/amirreza.sharifi.35"
+
+    },
+    "sections": [
+        {
+        "title": "About",
+         "items": [
+             {
+                "type": "p",
+                "content": "I'm a website programmer engnier. I love to make many websites for people; because this work is fun and amazing. It's a modern work and I like to help for develop it."
+            }
+        ],
+
+        "titlve": "Skills",
+        "itemxs": [{
+                "type": "Card",
+                "content": {
+                    "image": "/url",
+                    "title": "React"
+                }
+            }],
+
+        "titale": "About",
+        "itaems": [
+            {
+                "type": "p",
+                "content": "I like javaScript and everything web"
+            }
+            ],
+            "icons": {
+                "source": "../Images/down-arrow.svg"
+            }
+    }]
+}
